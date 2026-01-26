@@ -137,4 +137,7 @@
 # res = [phonePe() , googlePay()]
 # for i in res:
     # i.pay()   
-          
+       
+       
+name = "harsha"   
+print(name)

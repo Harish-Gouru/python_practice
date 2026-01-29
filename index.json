@@ -1,0 +1,9 @@
+
+{
+    "componeyId" : 1 ,
+    "componeyName" : "Harsha Tech Solutions",
+    "isHiring" : true,
+    "skills" : ["python" , "java" , "html" , "css"],
+    "componeydetails":{"address": "Hyd" , "pincode":500081}
+
+}
